@@ -1,0 +1,254 @@
+icountry,I_RELIGION,oilstate
+"Afghanistan","Muslim",0
+"Akrotiri",-999,-999
+"Albania","Muslim",1
+"Algeria","Muslim",1
+"American Samoa",-999,0
+"Andorra","Catholic",-999
+"Angola","Catholic",1
+"Anguilla",-999,-999
+"Antarctica",-999,-999
+"Antigua and Barbuda","Other Christian",0
+"Argentina","Catholic",1
+"Armenia","Orthodox Christian",0
+"Aruba",-999,1
+"Australia","Catholic",1
+"Austria","Catholic",1
+"Azerbaijan","Muslim",1
+"Bahamas, The","Other Christian",0
+"Bahrain","Muslim",1
+"Bangladesh","Muslim",1
+"Barbados","Other Christian",1
+"Belarus","Orthodox Christian",1
+"Belgium","Catholic",1
+"Belize","Catholic",1
+"Benin","Catholic",0
+"Bermuda",-999,0
+"Bhutan","Buddhist",0
+"Bolivia","Catholic",1
+"Bosnia and Herzegovina","Muslim",-999
+"Botswana","Other Christian",0
+"Bougainville",-999,-999
+"Brazil","Catholic",1
+"British Indian Ocean Territory",-999,-999
+"British Virgin Islands",-999,0
+"Brunei","Muslim",1
+"Bulgaria","Orthodox Christian",1
+"Burkina Faso","Muslim",0
+"Burma (Myanmar)","Buddhist",1
+"Burundi","Catholic",0
+"Cambodia","Buddhist",0
+"Cameroon","Other",1
+"Canada","Catholic",1
+"Cape Verde","Catholic",0
+"Cayman Islands",-999,0
+"Central African Republic","Other Christian",0
+"Chad","Muslim",1
+"Channel Islands",-999,-999
+"Chile","Catholic",1
+"Hong Kong","Other",0
+"Macau","Buddhist",0
+"Taiwan","Other",1
+"Tibet","Buddhist",-999
+"China","Buddhist",1
+"Christmas Island",-999,-999
+"Cocos (Keeling) Islands",-999,-999
+"Colombia","Catholic",1
+"Comoros","Muslim",0
+"Congo, Democratic Republic of the","Catholic",1
+"Congo, Republic of the","Catholic",1
+"Cook Islands",-999,0
+"Costa Rica","Catholic",0
+"Cote d'Ivoire","Other Christian",1
+"Croatia","Catholic",1
+"Cuba","Catholic",1
+"Cyprus","Orthodox Christian",0
+"Czech Republic","Other",1
+"Denmark","Other Christian",1
+"Dhekelia",-999,-999
+"Djibouti","Muslim",0
+"Dominica","Catholic",0
+"Dominican Republic","Catholic",0
+"Timor-Leste","Catholic",1
+"Ecuador","Catholic",1
+"Egypt","Muslim",1
+"El Salvador","Catholic",0
+"Equatorial Guinea","Catholic",1
+"Eritrea","Muslim",0
+"Estonia","Orthodox Christian",1
+"Ethiopia","Muslim",0
+"Falkland Islands (Islas Malvinas)",-999,0
+"Faroe Islands",-999,0
+"Fiji","Other Christian",0
+"Finland","Other Christian",1
+"France","Catholic",1
+"French Guiana",-999,-999
+"French Polynesia",-999,0
+"Gabon","Other Christian",1
+"Gambia, The","Muslim",0
+"Gaza Strip",-999,0
+"Georgia","Orthodox Christian",1
+"Germany","Catholic",1
+"Ghana","Other Christian",1
+"Gibraltar",-999,0
+"Greece","Orthodox Christian",1
+"Greenland",-999,0
+"Grenada","Catholic",0
+"Guadeloupe",-999,-999
+"Guam",-999,0
+"Guatemala","Catholic",1
+"Guernsey",-999,-999
+"Guinea-Bissau","Other",0
+"Guinea","Muslim",0
+"Guyana","Other",0
+"Haiti","Catholic",0
+"Holy See (Vatican City)",-999,-999
+"Honduras","Other Christian",0
+"Hungary","Catholic",1
+"Iceland","Other Christian",0
+"India","Other",1
+"Indonesia","Muslim",1
+"Iran","Muslim",1
+"Iraq","Muslim",1
+"Ireland","Catholic",0
+"Israel","Other",1
+"Palestine (Israeli Occupied Territories)","Muslim",-999
+"Italy","Catholic",1
+"Jamaica","Other Christian",0
+"Japan","Other",1
+"Jersey",-999,-999
+"Jordan","Muslim",0
+"Kazakhstan","Orthodox Christian",1
+"Kenya","Other Christian",0
+"Kiribati","Catholic",0
+"North Korea",-999,1
+"South Korea","Buddhist",1
+"Kuwait","Muslim",1
+"Kyrgyzstan","Muslim",1
+"Laos","Buddhist",0
+"Latvia","Catholic",0
+"Lebanon","Muslim",0
+"Lesotho","Orthodox Christian",0
+"Liberia","Other Christian",0
+"Libya","Muslim",1
+"Liechtenstein","Catholic",-999
+"Lithuania","Catholic",1
+"Luxembourg","Catholic",0
+"Macedonia","Orthodox Christian",0
+"Madagascar","Other Christian",0
+"Malawi","Other Christian",0
+"Malaysia","Muslim",1
+"Maldives","Muslim",0
+"Mali","Muslim",0
+"Malta","Catholic",0
+"Isle of Man",-999,-999
+"Marshall Islands","Other Christian",-999
+"Martinique",-999,-999
+"Mauritania","Muslim",1
+"Mauritius","Other",0
+"Mayotte",-999,-999
+"Mexico","Catholic",1
+"Micronesia, The Federated States of","Catholic",-999
+"Moldova","Orthodox Christian",0
+"Monaco","Catholic",-999
+"Mongolia","Buddhist",1
+"Montserrat",-999,0
+"Morocco","Muslim",1
+"Mozambique","Catholic",0
+"Namibia","Other Christian",0
+"Nauru","Other Christian",0
+"Nepal","Other",0
+"Netherlands","Other",1
+"New Caledonia",-999,0
+"New Zealand","Other Christian",1
+"Nicaragua","Catholic",0
+"Niger","Muslim",0
+"Nigeria","Muslim",1
+"Niue",-999,0
+"Norfolk Island",-999,-999
+"Northern Mariana Islands",-999,-999
+"Norway","Other Christian",1
+"Oman","Muslim",1
+"Pakistan","Muslim",1
+"Palau","Catholic",-999
+"Panama","Catholic",0
+"Papua New Guinea","Other Christian",1
+"Paraguay","Catholic",1
+"Peru","Catholic",1
+"Philippines","Catholic",1
+"Pitcairn Islands",-999,-999
+"Poland","Catholic",1
+"Portugal","Catholic",1
+"Puerto Rico",-999,1
+"Qatar","Muslim",1
+"Reunion",-999,-999
+"Romania","Orthodox Christian",1
+"Russia","Orthodox Christian",1
+"Rwanda","Catholic",0
+"Saint Helena",-999,0
+"Saint Kitts and Nevis","Other Christian",0
+"Saint Lucia","Catholic",0
+"Saint Pierre and Miquelon",-999,0
+"Saint Vincent and the Grenadines","Other Christian",0
+"Samoa","Other Christian",0
+"San Marino","Catholic",-999
+"Sao Tome and Principe","Catholic",0
+"Saudi Arabia","Muslim",1
+"Senegal","Muslim",0
+"Seychelles","Catholic",0
+"Sierra Leone","Muslim",1
+"Singapore","Buddhist",1
+"Slovakia","Catholic",1
+"Slovenia","Catholic",1
+"Solomon Islands","Other Christian",0
+"Somalia","Muslim",1
+"Somaliland",-999,-999
+"South Africa","Other Christian",1
+"Spain","Catholic",1
+"Spanish Northern Africa",-999,-999
+"Sri Lanka","Buddhist",0
+"Sudan","Muslim",1
+"Suriname","Other Christian",1
+"Svalbard",-999,-999
+"Swaziland","Other Christian",0
+"Sweden","Other Christian",1
+"Switzerland","Catholic",1
+"Syria","Muslim",1
+"Tajikistan","Muslim",1
+"Tanzania","Other Christian",0
+"Thailand","Buddhist",1
+"Togo","Other",0
+"Tokelau",-999,-999
+"Tonga","Other Christian",0
+"Trinidad and Tobago","Catholic",1
+"Tunisia","Muslim",1
+"Turkey","Muslim",1
+"Turkmenistan","Muslim",1
+"Turks and Caicos Islands",-999,0
+"Tuvalu","Other Christian",-999
+"Uganda","Catholic",0
+"Ukraine","Orthodox Christian",1
+"UAE","Muslim",1
+"UK","Other Christian",1
+"USA","Other Christian",1
+"Uruguay","Catholic",1
+"Uzbekistan","Muslim",1
+"Vanuatu","Other Christian",0
+"Venezuela","Catholic",1
+"Vietnam","Buddhist",1
+"Virgin Islands (U.S.)",-999,1
+"Wallis and Futuna",-999,-999
+"West Bank",-999,0
+"Western Sahara",-999,0
+"Yemen","Muslim",1
+"Zambia","Other Christian",1
+"Zimbabwe","Other Christian",0
+"Northern Cyprus","Muslim",-999
+"Serbia","Orthodox Christian",1
+"Montenegro","Orthodox Christian",0
+"Kosovo","Muslim",0
+"Sint Maarten",-999,-999
+"Curacao",-999,-999
+"Saint Barthelemy",-999,-999
+"Saint Martin",-999,-999
+"World",-999,1
